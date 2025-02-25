@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "imageURL": "/images/nintendo.png",
+    "title": "Nintendo Switch with Blue and Red Controllers",
+    "oldPrice": "50000",
+    "newPrice": 40000
+  },
+  {
+    "id": 2,
+    "imageURL": "/images/brain.png",
+    "title": "Novation Launchkey Mini MK2 USB Controller",
+    "oldPrice": "50000",
+    "newPrice": 40000
+  },
+  {
+    "id": 3,
+    "imageURL": "/images/microsoft.png",
+    "title": "Red Digital Cinema Brain with Dragon 5K Sensor",
+    "oldPrice": "50000",
+    "newPrice": 40000
+  },
+  {
+    "id": 4,
+    "imageURL": "/images/piano.png",
+    "title": "Chipolo Plus 2.0 Bluetooth Item Tracker Red",
+    "oldPrice": "50000",
+    "newPrice": 40000
+  },
+  {
+    "id": 5,
+    "imageURL": "/images/transcam.png",
+    "title": "Tascam iXZ  & Instrument Interface",
+    "oldPrice": "50000",
+    "newPrice": 40000
+  },
+  {
+    "id": 6,
+    "imageURL": "/images/chipolo.png",
+    "title": "Microsoft Surface Pro 12.3\" Multi-Touch Tablet",
+    "oldPrice": "50000",
+    "newPrice": 40000
+  }
+]
